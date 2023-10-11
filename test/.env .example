@@ -1,0 +1,9 @@
+APP_HOST = "localhost"
+APP_PORT = "8000"
+
+TEST_DB_DRIVER = "mysql"
+TEST_DB_USERNAME = "root"
+TEST_DB_PASSWORD = ""
+TEST_DB_HOST = "localhost"
+TEST_DB_PORT = "3306"
+TEST_DB_NAME = "test_httprouter_crud_db"
