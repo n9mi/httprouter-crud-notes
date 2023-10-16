@@ -14,6 +14,7 @@ To create a main database and testing database with migrations, please use <a hr
 migrate -database "mysql://user:password@tcp(host:port)/dbname?query" -path migrations up
 migrate -database "mysql://user:password@tcp(host:port)/testdbname?query" -path migrations up
 ```
+![image](https://github.com/naomigrain/httprouter-crud-notes/assets/113373725/2488a53e-3bf0-421c-be45-4faa2c87d66f)
 
 ## **Structure**
 Based on repository pattern, this project use:
